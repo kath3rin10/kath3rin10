@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;Katherin/&gt;!
@@ -49,7 +48,9 @@ Trabajo en equipo
   
 
 
-## 💡 Habilidades
+**💡 Habilidades**
+
+
 - Soy una persona proactiva,  
 responsable y orientada a  
 resultados, con capacidad  
@@ -63,7 +64,7 @@ y a la organización.
 
 
 
-## Conecta conmigo 🚀
+** Conecta conmigo 🚀**
 
 <div align="center">
 <a href="https://github.com/kath3rin10" target="_blank">
