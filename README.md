@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;Katherin/&gt;!
@@ -23,6 +24,8 @@
 - sena (2025-actual)
 - Bachiller
 - Técnico en programación de software
+
+
 💡 Habilidades
 Responsable
 Creativa
@@ -30,6 +33,7 @@ Trabajo en equipo
 
 
 **Lenguajes de programacion:**  
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -40,8 +44,35 @@ Trabajo en equipo
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 
 <br/>
+ 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+
 
 ## 💡 Habilidades
-- **Responsable**
-- **Creativa**
-- **Trabajo en equipo**
+- Soy una persona proactiva,  
+responsable y orientada a  
+resultados, con capacidad  
+para adaptarme a diferentes  
+retos, aprender con rapidez  
+y aportar siempre soluciones  
+que generen valor al equipo  
+y a la organización.
+
+
+
+
+
+## Conecta conmigo 🚀
+
+<div align="center">
+<a href="https://github.com/kath3rin10" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Kathe Rf" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kath3_rf" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
